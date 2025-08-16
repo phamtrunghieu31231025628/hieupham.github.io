@@ -2,6 +2,6 @@
 
 ### Summary
 
-My resume I made using plain HTML5 & CSS.
+You can check out my resume at the link below.
 https://rjbasitali.github.io/
 
