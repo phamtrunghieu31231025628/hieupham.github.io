@@ -27,6 +27,6 @@ Thực hành thuật toán phân cụm (Clustering) với K-Means và Hierarchic
 ## Final
 ### Final Project – Walmart Sales Data
 
-Phân tích và trực quan hóa dữ liệu doanh thu của Walmart biến mục tiêu Weely_Sales nhằm xác định các yếu tố ảnh hưởng đến doanh số theo thời gian, khu vực và ngành hàng.
-Dự án áp dụng các bước từ EDA, mô hình hồi quy, đến trực quan kết quả bằng Python, giúp rút ra xu hướng bán hàng và đề xuất cải thiện hiệu quả kinh doanh.
+Phân tích và trực quan hóa dữ liệu doanh thu của Walmart nhằm xác định các yếu tố ảnh hưởng đến doanh số theo thời gian, khu vực và ngành hàng. Dự án áp dụng các bước từ EDA, mô hình hồi quy, đến trực quan kết quả bằng Python, giúp rút ra xu hướng bán hàng và đề xuất cải thiện hiệu quả kinh doanh.
+
 ---
