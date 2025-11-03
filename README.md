@@ -7,4 +7,10 @@
 **Lớp học phần:** 25C1CE050118801  
 **Giảng viên hướng dẫn:** TS. Đỗ Như Tài  
 
+# My Resume
+
+### Summary
+You can check out my resume at the link below.
+(https://phamtrunghieu31231025628.github.io/UEH-KTLT-25/)
+
 ---
