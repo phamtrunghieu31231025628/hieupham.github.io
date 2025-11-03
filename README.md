@@ -13,7 +13,7 @@
 You can check out my resume at the link below.
 (https://phamtrunghieu31231025628.github.io/UEH-KTLT-25/)
 
-📂 Mô tả thư mục
+# Mô tả thư mục
 BUOI1
 Tài liệu và mã nguồn thực hành buổi 1 – làm quen với môi trường lập trình, cấu hình Python & Stata, và các bài tập khởi động.
 
